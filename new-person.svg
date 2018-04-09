@@ -108,22 +108,13 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-852.36223)">
     <rect
        style="fill:url(#linearGradient4163);fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4147"
-       width="202.5"
-       height="202.5"
-       x="-1.0714285"
-       y="851.29077" />
+       width="200"
+       height="200" />
     <path
        style="fill:url(#linearGradient4173);fill-opacity:1;stroke:none;stroke-width:5.14905548;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 99.642578 50.714844 A 33.571434 33.571434 0 0 0 66.072266 84.285156 A 33.571434 33.571434 0 0 0 83.46875 113.69922 A 57.425505 110.28268 0 0 0 44.513672 200.17773 L 157.68359 200.17773 A 57.425505 110.28268 0 0 0 117.24609 112.8418 A 33.571434 33.571434 0 0 0 133.21484 84.285156 A 33.571434 33.571434 0 0 0 99.642578 50.714844 z "
-       transform="translate(0,852.36223)"
        id="path4136" />
-  </g>
 </svg>
