@@ -16,22 +16,22 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="icon.svg">
+   sodipodi:docname="icon-farm.svg">
   <defs
      id="defs4">
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4237">
       <stop
-         style="stop-color:#8e0000;stop-opacity:1"
+         style="stop-color:#003300;stop-opacity:1"
          offset="0"
          id="stop4239" />
       <stop
          id="stop4245"
          offset="0.5"
-         style="stop-color:#e2433d;stop-opacity:1;" />
+         style="stop-color:#1b5e20;stop-opacity:1" />
       <stop
-         style="stop-color:#ff5f52;stop-opacity:1"
+         style="stop-color:#4c8c4a;stop-opacity:1"
          offset="1"
          id="stop4241" />
     </linearGradient>
@@ -53,11 +53,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="-84.547231"
-     inkscape:cy="89.548295"
+     inkscape:zoom="1.4"
+     inkscape:cx="146.61182"
+     inkscape:cy="137.94621"
      inkscape:document-units="px"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -78,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
